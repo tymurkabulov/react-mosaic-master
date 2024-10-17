@@ -1,4 +1,4 @@
-# React Mosaic Example
+# React Mosaic Dashboard
 
 This project is a React application demonstrating the usage of the `react-mosaic` library, built using Webpack.
 
